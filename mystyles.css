@@ -107,9 +107,9 @@ ul {
     margin: 0;
     list-style: none;
     background: brown;
-    position: sticky;
+    position: fixed;
     width: 100%;
-    top: 50px;
+    top: 0px;
     left: 0px;
 }
 
@@ -119,6 +119,7 @@ ul li {
 @media screen and (max-width: 768px){
     li{
         display: block;
+        width : 100%;
     }
 }
 
