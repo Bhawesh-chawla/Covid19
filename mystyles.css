@@ -60,8 +60,8 @@ img {
 
 @media screen and (max-width: 768px){
     #main{
-    width: 100%;
-    margin: 140px;
+    width: 90%;
+    margin: 80px;
     }
 }
 
@@ -115,6 +115,11 @@ ul {
 
 ul li {
     display: inline-block;
+}
+@media screen and (max-width: 768px){
+    li{
+        display: block;
+    }
 }
 
 ul li a {
