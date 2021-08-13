@@ -21,7 +21,7 @@ td {
 
 table {
     text-align: center;
-    position: fixed;
+/*     position: fixed; */
 }
 
 tr:nth-child(odd) {
