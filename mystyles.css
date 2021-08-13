@@ -22,7 +22,7 @@ td {
 table {
     text-align: center;
     position: sticky;
-    top: 40px;
+    top: 20px;
 }
 
 tr:nth-child(odd) {
@@ -103,7 +103,6 @@ ul {
     background: brown;
     width: 100%;
     position: sticky;
-    top: 10px;
     left: 0px;
 }
 
