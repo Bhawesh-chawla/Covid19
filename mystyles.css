@@ -103,6 +103,7 @@ ul {
     position: sticky;
     width: 100%;
     top: 0px;
+    bottom : 10px;
     left: 0px;
 }
 
