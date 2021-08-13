@@ -58,6 +58,13 @@ img {
     margin: 40px auto 140px;
 }
 
+@media screen and (max-width: 767px){
+    #main{
+    width: 100%;
+    margin: 40px auto 140px;
+    }
+}
+
 h1 {
     font-weight: normal;
     font-size: 48px;
